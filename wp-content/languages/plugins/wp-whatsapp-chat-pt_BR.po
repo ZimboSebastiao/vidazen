@@ -1,0 +1,632 @@
+# Translation of Plugins - Click To Chat App - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Click To Chat App - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-13 12:33:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Click To Chat App - Stable (latest release)\n"
+
+#: lib/view/backend/pages/modals/contact/panel-contact-chat.php:6
+#: lib/view/backend/pages/modals/contact/panel-contact.php:96
+msgid "Default message sent to the contact number."
+msgstr "Mensagem padrão enviada para o número de contato."
+
+#: compatibility/compatibility.php:115 lib/controllers/class-contact.php:44
+#: lib/controllers/class-contact.php:59 lib/controllers/class-display.php:52
+#: lib/view/backend/pages/display.php:40 lib/view/backend/pages/display.php:79
+#: lib/view/backend/pages/display.php:146
+msgid "All"
+msgstr "Tudo"
+
+#: lib/view/backend/pages/modals/contact/panel-visibility.php:17
+#: lib/view/backend/pages/modals/contact/panel-visibility.php:36
+#: lib/view/backend/pages/modals/contact/panel-visibility.php:53
+msgid "Include"
+msgstr "Incluir"
+
+#: lib/view/backend/pages/button.php:148
+#: lib/view/backend/pages/modals/contact/panel-contact.php:69
+#: lib/view/backend/pages/modals/contact/panel-tabs.php:6
+msgid "Visibility"
+msgstr "Visibilidade"
+
+#: lib/view/backend/pages/modals/contact/panel-tabs.php:3
+msgid "Contact"
+msgstr "Contato"
+
+#: lib/view/backend/pages/modals/contact/panel-visibility.php:18
+#: lib/view/backend/pages/modals/contact/panel-visibility.php:37
+#: lib/view/backend/pages/modals/contact/panel-visibility.php:54
+msgid "Exclude"
+msgstr "Excluir"
+
+#: lib/view/backend/pages/modals/contact/panel-info.php:8
+msgid "Contact id"
+msgstr "ID do contato"
+
+#: lib/view/backend/pages/modals/contact/panel-info.php:4
+msgid "Saved."
+msgstr "Salvo."
+
+#: lib/view/backend/pages/modals/contact/panel-header.php:9
+msgid "new"
+msgstr "novo"
+
+#: lib/view/backend/pages/modals/contact/panel-header.php:6
+msgid "Close dialog"
+msgstr "Fechar caixa de diálogo"
+
+#: lib/view/backend/pages/contacts.php:53
+msgid "Move down"
+msgstr "Mover para baixo"
+
+#: lib/view/backend/pages/contacts.php:52
+msgid "Move up"
+msgstr "Mover para cima"
+
+#: lib/view/backend/pages/contacts.php:4
+msgid "+ Contact"
+msgstr "+ Contato"
+
+#: lib/view/backend/pages/contacts.php:26
+msgid "Order"
+msgstr "Ordem"
+
+#: lib/view/backend/pages/box.php:74 lib/view/backend/pages/button.php:189
+#: lib/view/backend/pages/contacts.php:19
+#: lib/view/backend/pages/display.php:168 lib/view/backend/pages/scheme.php:118
+#: lib/view/backend/pages/settings.php:72
+#: lib/view/backend/pages/woocommerce.php:118
+msgid "Saved successfully!"
+msgstr "Salvo com êxito!"
+
+#: lib/controllers/class-base.php:20
+msgid "Access denied"
+msgstr "Acceso negado"
+
+#: lib/controllers/class-base.php:16
+msgid "Please, reload page"
+msgstr "Atualize a página"
+
+#: lib/view/backend/pages/contacts.php:7
+msgid "Save reorder"
+msgstr "Salvar nova ordem"
+
+#: lib/view/backend/pages/parts/header.php:8
+msgid "Purchase"
+msgstr "Compra"
+
+#: lib/view/backend/pages/modals/contact/panel-header.php:3
+msgid "Edit previous media item"
+msgstr "Editar o item de mídia anterior"
+
+#: lib/view/backend/pages/modals/contact/panel-header.php:4
+msgid "Edit next media item"
+msgstr "Editar o próximo item de mídia"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:165
+msgctxt "Plugin Installer"
+msgid "Favorites"
+msgstr "Favoritos"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:164
+msgctxt "Plugin Installer"
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:163
+msgctxt "Plugin Installer"
+msgid "Popular"
+msgstr "Popular"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:162
+msgctxt "Plugin Installer"
+msgid "Featured"
+msgstr "Em destaque"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Page.php:78
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Page.php:93
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Page.php:94
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/view/suggestions.php:47
+msgid "Suggestions"
+msgstr "Sugestões"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:157
+msgid "Search Results"
+msgstr "Resultados da pesquisa"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:160
+msgctxt "Plugin Installer"
+msgid "Beta Testing"
+msgstr "Testando Beta"
+
+#: lib/view/backend/pages/modals/contact/panel-info.php:24
+#: lib/view/backend/pages/parts/header.php:10
+#: vendor_packages/wp-plugin-table-links.php:23
+msgid "Documentation"
+msgstr "Documentação"
+
+#: lib/view/backend/pages/contacts.php:70
+msgid "Delete"
+msgstr "Excluir"
+
+#: lib/view/backend/pages/contacts.php:69
+msgid "Edit"
+msgstr "Editar"
+
+#: lib/view/backend/pages/contacts.php:69
+#: lib/view/backend/pages/contacts.php:70
+msgid "Edit checkout field"
+msgstr "Editar campo de finalização de compra"
+
+#: lib/view/backend/pages/modals/contact/panel-footer.php:10
+msgid "Close"
+msgstr "Fechar"
+
+#: lib/view/backend/pages/button.php:126
+#: lib/view/backend/pages/woocommerce.php:72
+msgid "Hide button if the user is out of the available hours."
+msgstr "Ocultar o botão se o usuário estiver fora do horário disponível."
+
+#: lib/view/backend/pages/modals/contact/panel-header.php:9
+msgid "Edit Contact:"
+msgstr "Editar contato:"
+
+#: lib/view/backend/pages/contacts.php:33
+msgid "Availability"
+msgstr "Disponibilidade"
+
+#: lib/view/backend/pages/button.php:153
+msgid "Do not show the button"
+msgstr "Não mostrar o botão"
+
+#: lib/view/backend/pages/button.php:121 lib/view/backend/pages/contacts.php:34
+#: lib/view/backend/pages/modals/contact/panel-contact.php:61
+#: lib/view/backend/pages/woocommerce.php:67
+msgid "Timezone"
+msgstr "Fuso horário"
+
+#: lib/view/backend/pages/button.php:113
+#: lib/view/backend/pages/woocommerce.php:59
+msgid "From"
+msgstr "De"
+
+#: lib/view/backend/pages/button.php:115
+#: lib/view/backend/pages/modals/contact/panel-contact.php:54
+#: lib/view/backend/pages/woocommerce.php:61
+msgid "To"
+msgstr "Para"
+
+#: lib/view/backend/pages/button.php:111
+#: lib/view/backend/pages/woocommerce.php:57
+msgid "Schedule"
+msgstr "Agendar"
+
+#: lib/models/class-box.php:24
+msgid "Write a response"
+msgstr "Escreva sua mensagem"
+
+#: lib/view/backend/pages/box.php:64
+msgid "Write a response text."
+msgstr "Escreva um texto de resposta."
+
+#: lib/view/backend/pages/box.php:61
+msgid "Response"
+msgstr "Resposta"
+
+#: lib/controllers/class-settings.php:15
+#: vendor_packages/wp-plugin-table-links.php:8
+msgid "Settings"
+msgstr "Configurações"
+
+#: lib/models/class-button.php:14 lib/models/class-woocommerce.php:14
+msgid "How can I help you?"
+msgstr "Como posso te ajudar?"
+
+#: vendor_packages/wp-notice-plugin-promote.php:55
+msgid "Report a bug"
+msgstr "Informar um erro"
+
+#: vendor_packages/wp-notice-plugin-promote.php:50
+msgid "Yes, of course!"
+msgstr "Claro!"
+
+#: vendor_packages/wp-notice-plugin-promote.php:42
+msgid "Hello! Thank you for choosing the %s plugin!"
+msgstr "Oi! Obrigado por escolher o %s plugin!"
+
+#: lib/view/backend/pages/box.php:72 lib/view/backend/pages/button.php:187
+#: lib/view/backend/pages/display.php:166
+#: lib/view/backend/pages/modals/contact/panel-footer.php:3
+#: lib/view/backend/pages/scheme.php:116 lib/view/backend/pages/settings.php:70
+#: lib/view/backend/pages/woocommerce.php:116
+msgid "Save"
+msgstr "Salvar"
+
+#: lib/view/backend/pages/modals/contact/panel-contact-chat.php:21
+#: lib/view/backend/pages/modals/contact/panel-contact.php:110
+msgid "Disabled"
+msgstr "Desabilitado"
+
+#: lib/view/backend/pages/modals/contact/panel-contact-chat.php:19
+#: lib/view/backend/pages/modals/contact/panel-contact.php:108
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: lib/view/backend/pages/modals/contact/panel-contact.php:14
+msgid "Lastname"
+msgstr "Último nome"
+
+#: lib/view/backend/pages/modals/contact/panel-contact.php:7
+msgid "Firstname"
+msgstr "Primeiro nome"
+
+#: lib/view/backend/pages/modals/contact/panel-info.php:16
+msgid "Upload"
+msgstr "Enviar"
+
+#. Author of the plugin
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/view/suggestions.php:79
+#: lib/view/backend/pages/parts/header.php:31
+msgid "QuadLayers"
+msgstr "QuadLayers"
+
+#: lib/controllers/class-display.php:16
+msgid "Display"
+msgstr "Exibir"
+
+#: lib/controllers/class-box.php:15 lib/view/backend/pages/button.php:16
+msgid "Box"
+msgstr "Caixa"
+
+#: lib/controllers/class-welcome.php:15
+msgid "Welcome"
+msgstr "Bem-vindo"
+
+#: lib/view/backend/pages/button.php:60
+#: lib/view/backend/pages/woocommerce.php:29
+msgid "Add Icon"
+msgstr "Adicionar ícone"
+
+#: lib/view/backend/pages/button.php:57
+#: lib/view/backend/pages/woocommerce.php:26
+msgid "Icon"
+msgstr "Ícone"
+
+#: lib/view/backend/pages/button.php:67
+#: lib/view/backend/pages/woocommerce.php:36
+msgid "Text"
+msgstr "Texto"
+
+#: lib/view/backend/pages/button.php:53
+msgid "Switch to change the button position."
+msgstr "Mude para alterar a posição do botão."
+
+#: lib/view/backend/pages/button.php:51
+msgid "Bottom Right"
+msgstr "Base à direita"
+
+#: lib/view/backend/pages/button.php:50
+msgid "Bottom Left"
+msgstr "Em baixo à esquerda"
+
+#: lib/view/backend/pages/button.php:49
+msgid "Middle Right"
+msgstr "Meio á direita"
+
+#: lib/view/backend/pages/button.php:48
+msgid "Middle Left"
+msgstr "Meio à esquerda"
+
+#: lib/view/backend/pages/button.php:45
+#: lib/view/backend/pages/woocommerce.php:93
+msgid "Position"
+msgstr "Posição"
+
+#: lib/view/backend/pages/button.php:41
+#: lib/view/backend/pages/woocommerce.php:22
+msgid "Add rounded border to the button."
+msgstr "Adicione a borda arredondada ao botão."
+
+#: lib/view/backend/pages/button.php:39
+#: lib/view/backend/pages/woocommerce.php:20
+msgid "Remove rounded border"
+msgstr "Remover borda arredondada"
+
+#: lib/view/backend/pages/button.php:38
+#: lib/view/backend/pages/woocommerce.php:19
+msgid "Add rounded border"
+msgstr "Adicionar borda arredondada"
+
+#: lib/view/backend/pages/button.php:35
+#: lib/view/backend/pages/woocommerce.php:16
+msgid "Rounded"
+msgstr "Arredondado"
+
+#: lib/view/backend/pages/button.php:12 lib/view/backend/pages/settings.php:13
+msgid "Switch to change the button layout."
+msgstr "Mude para alterar o layout do botão."
+
+#: lib/view/backend/pages/button.php:10
+msgid "Bubble"
+msgstr "Bolha"
+
+#: lib/controllers/class-button.php:15 lib/view/backend/pages/button.php:9
+msgid "Button"
+msgstr "Botão"
+
+#: lib/view/backend/pages/button.php:6
+msgid "Layout"
+msgstr "Layout"
+
+#: lib/view/backend/pages/welcome.php:23 lib/view/backend/pages/welcome.php:30
+#: lib/view/backend/pages/welcome.php:37
+msgid "Submit ticket"
+msgstr "Enviar chamado"
+
+#: lib/models/class-contact.php:24 lib/view/backend/pages/welcome.php:33
+#: vendor_packages/wp-plugin-table-links.php:18
+msgid "Support"
+msgstr "Ajuda"
+
+#: lib/view/backend/pages/parts/header.php:9
+#: lib/view/backend/pages/welcome.php:26
+msgid "Demo"
+msgstr "Demonstração"
+
+#: lib/view/backend/pages/welcome.php:19
+msgid "Community"
+msgstr "Comunidade"
+
+#: lib/view/backend/pages/welcome.php:7
+msgid "Hello we're QuadLayers! We've recently acquired this plugin and this is the first update. We have worked very much and very hard to release it, and we will do our absolute best to support it and fix all the issues."
+msgstr "Olá nós somos a QuadLayers! Nós adquirimos recentemente este plugin e esta é a primeira atualização. Temos trabalhado muito e muito duro para liberá-lo, e vamos fazer o nosso melhor para fornecer suporte e corrigir todos os problemas."
+
+#: lib/view/backend/pages/contacts.php:35
+msgid "Actions"
+msgstr "Ações"
+
+#: lib/view/backend/pages/contacts.php:31
+#: lib/view/backend/pages/modals/contact/panel-contact-chat.php:17
+#: lib/view/backend/pages/modals/contact/panel-contact.php:106
+msgid "Chat"
+msgstr "Chat"
+
+#: lib/view/backend/pages/button.php:86 lib/view/backend/pages/contacts.php:28
+#: lib/view/backend/pages/modals/contact/panel-contact.php:23
+#: lib/view/backend/pages/modals/contact/panel-contact.php:33
+#: lib/view/backend/pages/woocommerce.php:43
+msgid "Phone"
+msgstr "Telefone"
+
+#: lib/view/backend/pages/contacts.php:27
+msgid "Avatar"
+msgstr "Avatar"
+
+#: lib/controllers/class-contact.php:20
+msgid "Contacts"
+msgstr "Contatos"
+
+#: lib/view/backend/pages/box.php:41
+msgid "Footer"
+msgstr "Rodapé"
+
+#: lib/view/backend/pages/box.php:24
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: lib/view/backend/pages/button.php:20
+msgid "Disable contact box"
+msgstr "Desativar caixa de contato"
+
+#: lib/view/backend/pages/button.php:19
+msgid "Enable contact box"
+msgstr "Ativar caixa de contato"
+
+#: lib/view/backend/pages/settings.php:9
+msgid "Disable"
+msgstr "Desativar"
+
+#: lib/view/backend/pages/premium.php:66
+msgid "Type user message"
+msgstr "Escrever mensagem do usuário"
+
+#: lib/view/backend/pages/premium.php:62
+msgid "You can choose the predefined user message that will be sent to the agent phone number."
+msgstr "Você pode escolher a mensagem de usuário predefinida que será enviada para o número de telefone do agente."
+
+#: lib/view/backend/pages/premium.php:60
+msgid "Custom user message"
+msgstr "Mensagem personalizada do usuário"
+
+#: lib/view/backend/pages/premium.php:54
+msgid "Custom agent message"
+msgstr "Mensagem personalizada do agente"
+
+#: lib/view/backend/pages/premium.php:41 lib/view/backend/pages/premium.php:46
+msgid "Chatbox interface"
+msgstr "Interface do ChatBox"
+
+#: lib/view/backend/pages/premium.php:29
+msgid "Our plugin allows you to select between more than forty icons to include in your Whatsapp button."
+msgstr "Nosso plugin permite que você selecione entre mais de quarenta ícones para incluir no seu botão WhatsApp."
+
+#: lib/view/backend/pages/premium.php:27
+msgid "Custom icons"
+msgstr "Ícones personalizados"
+
+#: lib/view/backend/pages/premium.php:21
+msgid "Customize colors"
+msgstr "Personalizar cores"
+
+#: lib/view/backend/pages/premium.php:15
+msgid "Multiple agents"
+msgstr "Vários agentes"
+
+#: lib/view/backend/pages/premium.php:11
+msgid "Get Support"
+msgstr "Obter ajuda"
+
+#: lib/view/backend/pages/premium.php:10 lib/view/backend/pages/welcome.php:16
+#: vendor_packages/wp-notice-plugin-promote.php:63
+msgid "Purchase Now"
+msgstr "Compre agora"
+
+#: lib/controllers/class-premium.php:14
+#: lib/view/backend/pages/modals/contact/panel-info.php:23
+#: lib/view/backend/pages/premium.php:5 lib/view/backend/pages/premium.php:34
+#: lib/view/backend/pages/welcome.php:12
+#: vendor_packages/wp-plugin-table-links.php:13
+msgid "Premium"
+msgstr "Premium"
+
+#: lib/view/backend/pages/display.php:73
+msgid "Select for %s&hellip;"
+msgstr "Selecione para %s&hellip;"
+
+#: lib/view/backend/pages/display.php:46
+#: lib/view/backend/pages/modals/contact/panel-visibility.php:28
+msgid "If you select an option all the other will be excluded"
+msgstr "Se você selecionar uma opção todas as outras serão excluídas"
+
+#: lib/view/backend/pages/display.php:43
+msgid "Search"
+msgstr "Pesquisar"
+
+#: lib/view/backend/pages/display.php:42
+msgid "Blog"
+msgstr "Blog"
+
+#: lib/view/backend/pages/display.php:41
+msgid "Home"
+msgstr "InÍcio"
+
+#: lib/view/backend/pages/display.php:17
+#: lib/view/backend/pages/modals/contact/panel-visibility.php:15
+msgid "Target"
+msgstr "Alvo"
+
+#: lib/view/backend/pages/display.php:12
+msgid "Hide in all devices"
+msgstr "Ocultar em todos os dispositivos"
+
+#: lib/view/backend/pages/display.php:11
+msgid "Show in desktop devices"
+msgstr "Mostrar no computador"
+
+#: lib/view/backend/pages/display.php:10
+msgid "Show in mobile devices"
+msgstr "Mostrar nos dispositivos móveis"
+
+#: lib/view/backend/pages/display.php:9
+msgid "Show in all devices"
+msgstr "Mostrar em todos dispositivos"
+
+#: lib/view/backend/pages/display.php:6
+#: lib/view/backend/pages/modals/contact/panel-visibility.php:4
+msgid "Devices"
+msgstr "Dispositivos"
+
+#: lib/view/backend/pages/contacts.php:29 lib/view/backend/pages/scheme.php:76
+msgid "Name"
+msgstr "Nome"
+
+#: lib/view/backend/pages/contacts.php:30
+#: lib/view/backend/pages/modals/contact/panel-contact.php:43
+#: lib/view/backend/pages/scheme.php:69 lib/view/backend/pages/settings.php:39
+msgid "Label"
+msgstr "Rótulo"
+
+#: lib/view/backend/pages/button.php:102 lib/view/backend/pages/contacts.php:32
+#: lib/view/backend/pages/modals/contact/panel-contact-chat.php:3
+#: lib/view/backend/pages/modals/contact/panel-contact.php:93
+#: lib/view/backend/pages/scheme.php:62
+#: lib/view/backend/pages/woocommerce.php:50
+msgid "Message"
+msgstr "Mensagem"
+
+#: lib/view/backend/pages/box.php:12 lib/view/backend/pages/box.php:20
+#: lib/view/backend/pages/button.php:61 lib/view/backend/pages/button.php:82
+#: lib/view/backend/pages/button.php:117 lib/view/backend/pages/button.php:127
+#: lib/view/backend/pages/button.php:142 lib/view/backend/pages/button.php:156
+#: lib/view/backend/pages/button.php:171 lib/view/backend/pages/button.php:180
+#: lib/view/backend/pages/display.php:99
+#: lib/view/backend/pages/modals/contact/panel-contact-chat.php:22
+#: lib/view/backend/pages/modals/contact/panel-contact.php:26
+#: lib/view/backend/pages/modals/contact/panel-contact.php:74
+#: lib/view/backend/pages/modals/contact/panel-contact.php:111
+#: lib/view/backend/pages/scheme.php:58 lib/view/backend/pages/scheme.php:65
+#: lib/view/backend/pages/scheme.php:72 lib/view/backend/pages/scheme.php:79
+#: lib/view/backend/pages/scheme.php:95 lib/view/backend/pages/scheme.php:102
+#: lib/view/backend/pages/scheme.php:109
+#: lib/view/backend/pages/woocommerce.php:30
+#: lib/view/backend/pages/woocommerce.php:63
+#: lib/view/backend/pages/woocommerce.php:73
+#: lib/view/backend/pages/woocommerce.php:88
+msgid "This is a premium feature"
+msgstr "Esta é um recurso da versão Premium"
+
+#: lib/view/backend/pages/scheme.php:55
+msgid "Link"
+msgstr "Link"
+
+#: lib/view/backend/pages/scheme.php:37
+msgid "Color"
+msgstr "Cor"
+
+#: lib/view/backend/pages/scheme.php:31
+msgid "Background"
+msgstr "Fundo"
+
+#. Author URI of the plugin
+msgid "https://quadlayers.com"
+msgstr "https://quadlayers.com"
+
+#: lib/view/backend/pages/welcome.php:28
+msgid "Thank you for choosing our %s plugin for WordPress! Here you can see our demo and a description about the features we offer in the premium version."
+msgstr "Agradecemos por escolher o nosso plugin %s para WordPress! Aqui você pode ver a nossa demonstração e uma descrição sobre os recursos que oferecemos na versão Premium."
+
+#. Plugin URI of the plugin
+msgid "https://quadlayers.com/portfolio/whatsapp-chat/"
+msgstr "https://quadlayers.com/portfolio/whatsapp-chat/"
+
+#: lib/view/backend/pages/premium.php:17
+msgid "%s allows you to include unlimited agent accounts with their names and labels inside the box to provide direct contact to the different support areas of your site."
+msgstr "%s permite que você inclua contas de agente ilimitadas com seus nomes e rótulos dentro da caixa para fornecer um contato direto com as diferentes áreas de suporte do seu site."
+
+#: lib/view/backend/pages/premium.php:23
+msgid "Customize the colors to match your site theme through the WordPress live customizer interface."
+msgstr "Personalize as cores para combinar com o tema do seu site pela interface do Personalizador do WordPress."
+
+#: lib/view/backend/pages/parts/header.php:5
+msgid "Thanks for using %s! We will do our best to offer you the best and improved communication experience with your users."
+msgstr "Agradecemos por usar o %s! Nós fazemos o nosso melhor para oferecer uma experiência superior de comunicação com seus usuários."
+
+#: lib/view/backend/pages/premium.php:48
+msgid "%s for WordPress allows you to include a chatbox for each agent where your users can type their first message."
+msgstr "%s para WordPress permite que você inclua uma caixa de bate-papo para cada agente onde seus usuários podem digitar sua primeira mensagem."
+
+#: lib/view/backend/pages/premium.php:56
+msgid "Allow you to set a custom message for each agent that will be displayed on the chatbox."
+msgstr "Permite que você defina uma mensagem personalizada para cada agente que será exibido na caixa de bate-papo."
+
+#: lib/view/backend/pages/premium.php:68
+msgid "Allow your users to type their own messages before sending it to the agent phone number."
+msgstr "Permita que seus usuários digitem suas próprias mensagens antes de enviá-las para o número de telefone do agente."
+
+#: lib/view/backend/pages/premium.php:7
+msgid "Unlock the power of our premium %s plugin which allows you to include unlimited agent accounts with their names and labels inside the box to provide direct contact to the different support areas of your site."
+msgstr "Desbloqueie o poder do nosso plugin %s Premium que permite que você inclua contas de agente ilimitadas com seus nomes e rótulos dentro da caixa para fornecer um contato direto com as diferentes áreas de suporte do seu site."
+
+#: lib/view/backend/pages/welcome.php:21
+msgid "If you want to get in touch with other %s users or be aware of our promotional discounts join our community now."
+msgstr "Se você quiser entrar em contato com outros usuários do %s, ou conhecer nossos descontos promocionais, junte-se à nossa comunidade agora mesmo."
+
+#: lib/view/backend/pages/welcome.php:35
+msgid "If you have any doubt or you find any issue don't hesitate to contact us through our ticket system or join our community to meet other %s users."
+msgstr "Se você tiver alguma dúvida ou encontrar qualquer problema, não hesite em nos contatar através do nosso sistema de chamados ou entre em nossa comunidade para encontrar outros usuários do %s."

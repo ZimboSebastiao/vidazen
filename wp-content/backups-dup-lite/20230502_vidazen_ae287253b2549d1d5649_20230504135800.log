@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 4 de May de 2023 13:58
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.3.1
+WORDPRESS:	6.2
+PHP INFO:	8.1.12 | SAPI: apache2handler
+SERVER:		Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 58MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20230502_vidazen_ae287253b2549d1d5649_20230504135800_database.sql
+SQL FILE SIZE: 2.91MB (3055319)
+SQL FILE TIME: 2023-05-04 13:58:14
+SQL RUNTIME: 4.97 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/vidazen
+ARCHIVE FILE: 20230502_vidazen_ae287253b2549d1d5649_20230504135800_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	111.32MB
+STATS:	Dirs 1,193 | Files 6,090
+SQL ADDED: 20230502_vidazen_ae287253b2549d1d5649_20230504135800_database.sql
+ZipArchive Object
+(
+    [lastId] => 7282
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7283
+    [filename] => C:\xampp\htdocs\vidazen\wp-content\backups-dup-lite\tmp\20230502_vidazen_ae287253b2549d1d5649_20230504135800_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 7282
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 38.23MB
+ARCHIVE RUNTIME: 11.82 sec.
+MEMORY STACK: 60MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 2.91MB
+INSTALLER FILE: 73.35KB
+ARCHIVE FILE: 40.11MB 
+EXPECTED FILE/DIRECTORY COUNT: 7,283
+ACTUAL FILE/DIRECTORY COUNT: 7,282
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[12]
+TOTAL PROCESS RUNTIME: 18.12 sec.
+PEAK PHP MEMORY USED: 60MB
+DONE PROCESSING => 20230502_vidazen 4 de May de 2023 13:58
+
